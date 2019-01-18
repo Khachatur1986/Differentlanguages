@@ -2,4 +2,7 @@
 <resources>
     <string name="app_name">Different Languages</string>
     <string name="hello">Hello</string>
+    <string name="language_en">English</string>
+    <string name="language_hy">Հայերեն</string>
+    <string name="language_ru">Русские</string>
 </resources>
